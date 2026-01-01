@@ -1,75 +1,113 @@
-# Konichiwa 👋 I'm Aryan
-
-<div align="center">
-  <img height="300" width="700" alt="GIF" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/208593.gif">
-</div>
-
-<br><br><br>
-
-# About Me 💬
-
-### - 19 y/o CSE student from India 🇮🇳  
-### - Currently exploring **Data Analytics** and loving it 📊
-
-<img height="400" width="500" alt="GIF" align="right" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/1936.gif">
-
-### - What I'm Learning 🚀
-- ✨ Python for Data Analysis
-- ✨ SQL (Databases & Queries)
-- ✨ Data Structures & Algorithms
-- ✨ Basics of Statistics & Data Visualization
-
-### - Future Goals 🔮
-- ✨ Become strong in Data Analytics
-- ✨ Work with real-world datasets
-- ✨ Slowly explore ML once foundations are solid
-
-### - Hobbies ⚡
-- ✨ Gaming (always down for co-op 👾)
-- ✨ Watching Anime (peak culture)
-- ✨ Reading Light Novels
-- ✨ Badminton (neighbourhood pro 😎)
-
-<br><br><br>
-
-# Languages & Tools 👨‍💻🛠
-
-<br>
+<h1 align="center" style="font-family: monospace;">
+  Konichiwa 👋 I'm Aryan
+</h1>
 
 <p align="center">
-  <img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/python.png" alt="python" width="120">
-  <img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/java.png" alt="java" width="100">
-  <img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/datascience.png" alt="data" width="180">
-  <img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/bash.png" alt="bash" width="100">
-  <br>
-  <img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/google_cloud_platform.png" alt="gcp" width="260">
-  <img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/visualstudio_code.png" alt="vscode" width="240">
-  <br>
-  <img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/pc.png" alt="pc" width="100">
-  <img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/edge.png" alt="edge" width="100">
-  <img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/playstation@3x.png" alt="playstation" width="150">
+  <img src="assets/208593.gif" width="650" alt="intro-gif"/>
 </p>
 
-<br><br><br>
-
-# Contact Me 🤝
+<p align="center">
+  <i>21 y/o CSE student • Data Analytics enthusiast • Anime & Games enjoyer</i>
+</p>
 
 <br>
 
-If you want to talk about **data, coding, anime, games**, or just vibe — my DMs are open 😉
+---
 
-<a href="mailto:your-email@gmail.com">
-  <img align="left" alt="Gmail" width="130" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/gmail.png" />
-</a>
+## 👨‍💻 About Me
 
-<a href="https://www.linkedin.com/in/your-linkedin/">
-  <img align="left" alt="LinkedIn" width="150" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/linkedin.png" />
-</a>
+<img align="right" src="assets/1936.gif" width="250" />
 
-<br><br><br><br>
+- 🎓 Computer Science student from India 🇮🇳  
+- 📊 Recently shifted focus from full-stack to **Data Analytics**  
+- 🐍 Learning Python, SQL & core analytics tools  
+- 🧠 Believer in strong fundamentals > rushing stacks  
 
-<p align="center">  
-  <a href="https://github.com/anuraghazra/github-readme-stats"> 
-    <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical"/>
+<br>
+
+---
+
+## 🚀 What I’m Learning Right Now
+
+<table>
+<tr>
+<td>
+
+- Python for Data Analysis  
+- SQL & Databases  
+- Data Structures & Algorithms  
+- Statistics & Visualization  
+
+</td>
+<td align="center">
+
+<img src="assets/datascience.png" width="160"/>
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠 Languages & Tools
+
+<p align="center">
+  <img src="assets/python.png" width="80"/>
+  <img src="assets/java.png" width="70"/>
+  <img src="assets/bash.png" width="70"/>
+  <img src="assets/visualstudio_code.png" width="120"/>
+  <img src="assets/intellij.png" width="120"/>
+</p>
+
+<p align="center">
+  <img src="assets/google_cloud_platform.png" width="180"/>
+  <img src="assets/aws.png" width="90"/>
+  <img src="assets/azure.png" width="90"/>
+</p>
+
+<p align="center">
+  <img src="assets/pc.png" width="70"/>
+  <img src="assets/edge.png" width="70"/>
+  <img src="assets/playstation@3x.png" width="110"/>
+</p>
+
+---
+
+## ⚡ Outside Code
+
+<p align="center">
+  <img src="assets/steam.png" width="60"/>
+  <img src="assets/reddit.png" width="60"/>
+  <img src="assets/telegram.png" width="60"/>
+  <img src="assets/wordpress.png" width="60"/>
+</p>
+
+- 🎮 Gaming (PC + PS)
+- 🎌 Anime & Light Novels
+- 🏸 Badminton (neighbourhood legend 😎)
+
+---
+
+## 🤝 Let’s Connect
+
+<p align="center">
+  <a href="mailto:aryanopjod@gmail.com">
+    <img src="assets/gmail.png" width="110"/>
   </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/aryan-codes">
+    <img src="assets/linkedin.png" width="130"/>
+  </a>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SpartanOpJod&theme=radical&hide_border=true&rank_icon=github"/>
+</p>
+
+<p align="center">
+  <i>Building slowly. Building honestly. 🚀</i>
 </p>
