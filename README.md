@@ -1,5 +1,5 @@
 <h1 align="center" style="font-family: monospace;">
-  Konichiwa 👋 I'm Aryan
+  Konnichiwa 👋 I'm Aryan
 </h1>
 
 <p align="center">
