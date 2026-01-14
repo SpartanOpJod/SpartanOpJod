@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <i>21 y/o CSE student • Data Analytics enthusiast • Anime & Games enjoyer</i>
+  <i>21 y/o CSE student • Data Science and MERN Full Stack enthusiast • Anime & Games enjoyer</i>
 </p>
 
 <br>
@@ -19,7 +19,7 @@
 <img align="right" src="assets/1936.gif" width="250" />
 
 - 🎓 Computer Science student from India 🇮🇳  
-- 📊 Recently shifted focus from full-stack to **Data Analytics**  
+- 📊 Recently shifted focus from full-stack to **Data Science**  
 - 🐍 Learning Python, SQL & core analytics tools  
 - 🧠 Believer in strong fundamentals > rushing stacks  
 
@@ -36,7 +36,7 @@
 - Python for Data Analysis  
 - SQL & Databases  
 - Data Structures & Algorithms  
-- Statistics & Visualization  
+- MERN Fullstack  
 
 </td>
 <td align="center">
