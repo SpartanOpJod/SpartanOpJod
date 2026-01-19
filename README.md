@@ -105,7 +105,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SpartanOpJod&theme=radical&hide_border=true&rank_icon=github"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SpartanOpJod&theme=redical&hide_border=true" />
 </p>
 
 <p align="center">
