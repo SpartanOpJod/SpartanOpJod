@@ -20,63 +20,55 @@
 
 <img align="right" src="assets/1936.gif" width="240" />
 
-- 🎓 Computer Science Engineering student from India 🇮🇳  
-- 💻 Strong foundation in **MERN Full Stack Development** with hands-on project experience  
-- 📊 Actively building expertise in **Data Science & Machine Learning**  
-- ☁️ Familiar with **AWS cloud services** and real-world deployment workflows  
-- 🧠 Believe in **system thinking, clean architecture, and fundamentals over hype**  
-- 🤝 Comfortable working independently and taking ownership in team-based projects  
+🎓 Final Year Computer Science Engineering Student at VIT Vellore
+🚀 Passionate about developing AI-driven applications, scalable backend systems, and intelligent user experiences.
+🤖 Experienced in Generative AI, Machine Learning, Deep Learning, NLP, and Full Stack Development.
+📚 Published IEEE Conference Research Author with hands-on experience transforming academic work into practical solutions.
+☁️ Interested in Agentic AI Systems, LLM Applications, Cloud Infrastructure, and Production AI Engineering.
+💡 Strong believer in learning by building, solving real-world problems, and continuously improving.
 
 <br>
 
 ---
 
+## 🚀Highlights
+
+🏅 Published IEEE ICFACT 2026 Research Paper
+🤖 Built & Deployed Generative AI Music Generation Platform
+💰 Developed Budget Buddy – AI Powered Finance Tracker
+🫁 Achieved 96.7% Accuracy in Lung Cancer Classification
+🚀 MERN Full Stack Developer
+☁️ Cloud & Deployment Enthusiast
+📈 Always Exploring AI, LLMs & Emerging Technologies
+
+---
 ## 🚀 Current Focus Areas
+Generative AI & LLM Applications
+Machine Learning & Deep Learning
+NLP & Transformer Models
+MERN Stack Development
+Backend Architecture & APIs
+Cloud Deployment (AWS, Vercel)
+Agentic AI Systems
 
-<table>
-<tr>
-<td>
 
-- Data Science (Python, SQL, Pandas, NumPy)  
-- Machine Learning Fundamentals & Model Evaluation  
-- MERN Stack (MongoDB, Express, React, Node.js)  
-- REST API Design & Backend Architecture  
-- Cloud Basics with AWS (EC2, S3, IAM, Deployment)
+## ⚡ Tech Stack
 
-</td>
-<td align="center">
-
-<img src="assets/datascience.png" width="160"/>
-
-</td>
-</tr>
-</table>
-
----
-
-## 🧩 Technical Skill Set
-
-### Programming & Core Skills
-<p align="center">
-  <img src="assets/python.png" width="80"/>
-  <img src="assets/java.png" width="70"/>
-  <img src="assets/bash.png" width="70"/>
-</p>
-
-### Development & Tooling
-<p align="center">
-  <img src="assets/visualstudio_code.png" width="120"/>
-  <img src="assets/intellij.png" width="120"/>
-</p>
-
-### Cloud & Platforms
-<p align="center">
-  <img src="assets/aws.png" width="90"/>
-  <img src="assets/google_cloud_platform.png" width="160"/>
-  <img src="assets/azure.png" width="90"/>
-</p>
-
----
+### Languages
+Python • Java • C • C++ • JavaScript
+### Frontend
+React.js • Next.js • HTML • CSS
+### Backend
+Node.js • Express.js • Flask • REST APIs
+### AI / ML
+PyTorch • Scikit-Learn • Transformers
+Hugging Face • NLP • Deep Learning
+Generative AI • LLM Applications
+### Databases
+MongoDB • MySQL
+### Tools & Platforms
+Git • GitHub • Postman • Vercel
+AWS • CI/CD
 
 ## 🧠 Engineering Mindset
 
@@ -87,6 +79,15 @@
 - Continuous learner with a bias toward **building and shipping**
 
 ---
+## 📖 Research & Publications
+### Lung Cancer Classification using EfficientNet
+📌 Published in IEEE ICFACT 2026
+Research focused on applying deep learning techniques for accurate CT scan classification and early lung cancer detection.
+Areas:
+- Medical Imaging
+- Deep Learning
+- Computer Vision
+- Healthcare AI
 
 ## 🎯 Hobbies & Interests (Outside Work)
 
