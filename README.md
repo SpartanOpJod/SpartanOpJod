@@ -7,40 +7,27 @@
 </p>
 
 <p align="center">
-  <i>
-    - 🎓 Final Year Computer Science Engineering Student at VIT Vellore 
-    - 💻 Building AI-powered and full-stack applications 
-    -📄 Published IEEE ICFACT 2026 Research Author
-    - ☁️ Interested in Generative AI, LLM Applications, Backend Systems & Cloud
-  </i>
+  🎓 Final Year CSE Student @ VIT Vellore &nbsp;•&nbsp;
+  💻 Full Stack Developer &nbsp;•&nbsp;
+  📄 IEEE ICFACT 2026 Author &nbsp;•&nbsp;
+  ☁️ AI, Backend & Cloud Enthusiast
 </p>
+
+---
 
 <br>
 
 ---
 
+
 ## ⚡ Tech Stack
 
-### Languages
-Python • Java • C • C++ • JavaScript
-
-### Frontend
-React.js • Next.js • HTML • CSS
-
-### Backend
-Node.js • Express.js • Flask • REST APIs
-
-### AI / ML
-PyTorch • Scikit-Learn • Transformers
-Hugging Face • NLP • Deep Learning
-Generative AI • LLM Applications
-
-### Databases
-MongoDB • MySQL
-
-### Tools & Platforms
-Git • GitHub • Postman • Vercel
-AWS • CI/CD
+**Languages:** Python • Java • C • C++ • JavaScript  
+**Frontend:** React.js • Next.js • HTML • CSS  
+**Backend:** Node.js • Express.js • Flask • REST APIs  
+**AI/ML:** PyTorch • Scikit-Learn • Transformers • Hugging Face • NLP • Deep Learning • Generative AI  
+**Databases:** MongoDB • MySQL  
+**Tools:** Git • GitHub • Postman • AWS • Vercel • CI/CD
 
 
 ## 🎯 Hobbies & Interests (Outside Work)
