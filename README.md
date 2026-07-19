@@ -53,12 +53,3 @@
 
 ---
 
-## 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SpartanOpJod&theme=redical&hide_border=true" />
-</p>
-
-<p align="center">
-  <i>Consistency over intensity. Progress over noise.</i>
-</p>
